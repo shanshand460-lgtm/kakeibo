@@ -1,0 +1,25 @@
+{
+  "name": "家計簿アプリ",
+  "short_name": "家計簿",
+  "description": "JCBカード対応・AIアドバイス付き家計管理アプリ",
+  "start_url": "./kakeibo_v7.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1558A8",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
